@@ -14,8 +14,8 @@ return {
             node = {
 			    children = {
 				    {
-               			materials = { "vehicle/train/br101/rumpf_rhein2.mtl", },
-					    mesh = "vehicle/train/br101/rumpf_lod0.msh",
+               			materials = { "vehicle/train/br101/rumpf_rheingold.mtl", },
+					    mesh = "vehicle/train/br101/rumpf_vorserie_lod0.msh",
 					    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				    },
                     {
@@ -166,7 +166,7 @@ return {
             node = {
 			    children = {
 				    {
-               			materials = { "vehicle/train/br101/rumpf_rhein2.mtl", },
+               			materials = { "vehicle/train/br101/rumpf_rheingold.mtl", },
 					    mesh = "vehicle/train/br101/rumpf_lod1.msh",
 					    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				    },
@@ -313,7 +313,7 @@ return {
             node = {
 			    children = {
 				    {
-               			materials = { "vehicle/train/br101/rumpf_rhein2.mtl", },
+               			materials = { "vehicle/train/br101/rumpf_rheingold.mtl", },
 					    mesh = "vehicle/train/br101/rumpf_lod2.msh",
 					    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				    },
@@ -424,7 +424,7 @@ return {
             node = {
 			    children = {
 				    {
-               			materials = { "vehicle/train/br101/rumpf_rhein2.mtl", },
+               			materials = { "vehicle/train/br101/rumpf_rheingold.mtl", },
 					    mesh = "vehicle/train/br101/rumpf_lod3.msh",
 					    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 				    },

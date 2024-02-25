@@ -45,7 +45,7 @@ return {
 	runFn = function (settings, modParams)
 
 		local vorspannFilter = function(fileName, data)
-			if data.metadata.transportVehicle and data.metadata.baureihe101 and data.metadata.br101.vorspann == true then
+			if data.metadata.transportVehicle and data.metadata.br101 and data.metadata.br101.vorspann == true then
 				data.metadata.availability.yearFrom = 1
 				data.metadata.availability.yearTo = 2
 				--return false

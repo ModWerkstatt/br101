@@ -39,12 +39,12 @@ return {
                     			materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/drehgestell_lod0.msh",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-		                    }, 
+		                    },
 							{
                        			materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_lod0.msh",
 			                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.331, 0, 0.62079, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_2_lod0.msh",
@@ -59,12 +59,12 @@ return {
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/drehgestell_lod0.msh",
 								transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_lod0.msh",
 			                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.331, 0, 0.62079, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_2_lod0.msh",
@@ -186,12 +186,12 @@ return {
                     			materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/drehgestell_lod1.msh",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-		                    }, 
+		                    },
 							{
                        			materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_lod1.msh",
 			                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.331, 0, 0.62079, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_2_lod1.msh",
@@ -206,12 +206,12 @@ return {
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/drehgestell_lod1.msh",
 								transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_lod1.msh",
 			                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.331, 0, 0.62079, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_2_lod1.msh",
@@ -328,7 +328,7 @@ return {
                        			materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_lod2.msh",
 			                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.331, 0, 0.62079, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_2_lod2.msh",
@@ -343,7 +343,7 @@ return {
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_lod2.msh",
 			                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.331, 0, 0.62079, 1, },
-		                    }, 
+		                    },
 							{
 			                    materials = { "vehicle/train/br101/beweglich.mtl", },
 			                    mesh = "vehicle/train/br101/rad_2_lod2.msh",
@@ -443,7 +443,7 @@ return {
 			speedEmission = -1,
 		},
         description = {
-			name = _("br101_documenta"),
+			name = _("br101_backontrack"),
 			description = _("br101_desc") .. _("uic"),
 		},
 		availability = {

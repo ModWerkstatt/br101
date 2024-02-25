@@ -31,13 +31,13 @@ return {
 				tooltip = _("option_fake_br101_desc"),
 				defaultIndex = 0,
 			},
-			{
-				key = "br101_endless",
-				name = _("endjahr_br101"),
-				values = { "No", "Yes", },
-				tooltip = _("option_endjahr_br101_desc"),
-				defaultIndex = 0,
-			},
+--			{
+--				key = "br101_endless",
+--				name = _("endjahr_br101"),
+--				values = { "No", "Yes", },
+--				tooltip = _("option_endjahr_br101_desc"),
+--				defaultIndex = 0,
+--			},
         },
 	},
 	options = {

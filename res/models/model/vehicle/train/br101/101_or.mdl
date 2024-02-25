@@ -418,7 +418,7 @@ return {
 			},
 			static = false,
 			visibleFrom = 500,
-			visibleTo = 1500,
+			visibleTo = 1000,
 		},
 		{
             node = {
@@ -432,8 +432,8 @@ return {
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 			},
 			static = false,
-			visibleFrom = 1500,
-			visibleTo = 2500,
+			visibleFrom = 1000,
+			visibleTo = 2000,
 		},
 	},
 	metadata = {
@@ -524,6 +524,10 @@ return {
                     transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -7.2, 0.6, 1.7, 1, }
                 },
 			},
+		},
+		br101 = {
+			vorspann = false,
+			fake = false,
 		},
 	},
     version = 1,

@@ -3,7 +3,7 @@ return {
 	en = {
 
 		["mod_name"] = "DB BR 101 Universal locomotive",
-		["mod_desc"] = "The 101 series are high-performance universal locomotives that have been in service with Deutsche Bahn since 1996. Designed for passenger and freight services, the locomotives were used for passenger trains during the day and then for fast goods trains at night. In the meantime, all of them are actually only ever used for long-distance services and have replaced the 103 and 120 series for the high-quality trains below the ICE fleet.\nDue to its smooth outer skin, the locomotive is very popular as an advertising medium, which is stuck onto the locomotive with foil.",
+		["mod_desc"] = "The 101 series are high-performance universal locomotives that have been in service with Deutsche Bahn since 1996. Designed for passenger and freight services, the locomotives were used for passenger trains during the day and then for fast goods trains at night. In the meantime, all of them are actually only ever used for long-distance services and have replaced the 103 and 120 series for the high-quality trains below the ICE fleet.\nDue to its smooth outer skin, the locomotive is very popular as an advertising medium, which is stuck onto the locomotive with foil.\n\nIf this mod is loaded after the Metropolitan mod, the old BR 101 from the Metropolitan mod will also be replaced by the 2024 version.",
 
 		["br101_menu"] = "BR 101",
 		["br101_vorspann_menu"] = "BR 101 Leading",
@@ -151,7 +151,7 @@ return {
 	de = {
 
 		["mod_name"] = "DB BR 101 Universallokomotive",
-		["mod_desc"] = "Die Baureihe 101 sind Hochleistungs-Universallokomotiven, die seit 1996 bei der Deutschen Bahn in Dienst gestellt wurden. Ausgelegt für Personen- und Güterzugdienste wurden die Loks tagsüber für Personenzüge eingesetzt und nachts dann für schnelle Güterzüge. Mittlerweile werden alle eigentlich immer nur im Fernverkehr eingesetzt und haben die Baureihen 103 und 120 abgelöst bei den hochwertigen Zügen unterhalb der ICE-Flotte.\nDurch ihre glatte Außenhaut ist die Lok sehr beliebt als Werbeträger, die mit Folien auf die Lok geklebt wird.",
+		["mod_desc"] = "Die Baureihe 101 sind Hochleistungs-Universallokomotiven, die seit 1996 bei der Deutschen Bahn in Dienst gestellt wurden. Ausgelegt für Personen- und Güterzugdienste wurden die Loks tagsüber für Personenzüge eingesetzt und nachts dann für schnelle Güterzüge. Mittlerweile werden alle eigentlich immer nur im Fernverkehr eingesetzt und haben die Baureihen 103 und 120 abgelöst bei den hochwertigen Zügen unterhalb der ICE-Flotte.\nDurch ihre glatte Außenhaut ist die Lok sehr beliebt als Werbeträger, die mit Folien auf die Lok geklebt wird.\n\nWenn dieser Mod nach dem Metropolitan-Mod geladen wird, werden die alten BR 101 aus dem Metropolitan-Mod auch ersetzt durch die Version von 2024.",
 
 		["br101_menu"] = "BR 101",
 		["br101_vorspann_menu"] = "BR 101 Vorspann",

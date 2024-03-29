@@ -443,12 +443,12 @@ return {
 			speedEmission = -1,
 		},
         description = {
-			name = _("br101_vr5_vorspann"),
+			name = _("br101_rdc_vorspann"),
 			description = _("br101_desc") .. _("uic"),
 		},
 		availability = {
-			yearFrom = 1996,
-			yearTo = 2003,
+			yearFrom = 2023,
+			yearTo = 0000,
 		},
 		cost = {
 			price = -1,

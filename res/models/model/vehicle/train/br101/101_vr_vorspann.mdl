@@ -447,7 +447,7 @@ return {
 			description = _("br101_desc"),
 		},
 		availability = {
-			yearFrom = 1996,
+			yearFrom = 1998,
 			yearTo = 2004,
 		},
 		cost = {

@@ -18,7 +18,7 @@ return {
         ["endjahr_br101"] = "Active endless mode?",
         ["option_endjahr_br101_desc"] = "Should the locomotives be available without an end year?",
 
-		["br101_agfa"] = 		"BR 101 115 DB AG AGFA (2003)",
+		["br101_agfa"] = 		"BR 101 115 DB AG AGFA (2001)",
 		["br101_backontrack"] = "BR 101 068 DB AG Back on Track (2020)",
 		["br101_bahn"] = 		"BR 101 003 DB AG Design&Bahn (2021)",
 		["br101_bauhaus"] = 	"BR 101 063 DB AG 100 years Bauhaus (2018)",
@@ -60,7 +60,7 @@ return {
 		["br101_zuerich"] = 	"BR 101 081 DB AG Zurich (2014)",
 
         -- Vorspann
-        ["br101_agfa_vorspann"] = 		    "BR 101 115 DB AG AGFA [Leading] (2003)",
+        ["br101_agfa_vorspann"] = 		    "BR 101 115 DB AG AGFA [Leading] (2001)",
 		["br101_backontrack_vorspann"] =    "BR 101 068 DB AG Back on Track [Leading] (2020)",
 		["br101_bahn_vorspann"] = 		    "BR 101 003 DB AG Design&Bahn [Leading] (2021)",
 		["br101_bauhaus_vorspann"] = 	    "BR 101 063 DB AG 100 years Bauhaus [Leading] (2018)",
@@ -102,7 +102,7 @@ return {
 		["br101_zuerich_vorspann"] = 	    "BR 101 081 DB AG Zurich [Leading] (2014)",
 
         -- Fake
-        ["br101_agfa_fake"] = 		    "BR 101 115 DB AG AGFA [Fake] (2003)",
+        ["br101_agfa_fake"] = 		    "BR 101 115 DB AG AGFA [Fake] (2001)",
 		["br101_backontrack_fake"] =    "BR 101 068 DB AG Back on Track [Fake] (2020)",
 		["br101_bahn_fake"] = 		    "BR 101 003 DB AG Design&Bahn [Fake] (2021)",
 		["br101_bauhaus_fake"] = 	    "BR 101 063 DB AG 100 years Bauhaus [Fake] (2018)",
@@ -166,7 +166,7 @@ return {
         ["endjahr_br101"] = "Endlosmodus deaktivieren?",
         ["option_endjahr_br101_desc"] = "Sollen die Loks ohne Endjahr verfügbar sein?",
 
-		["br101_agfa"] = 		"BR 101 115 DB AG AGFA (2003)",
+		["br101_agfa"] = 		"BR 101 115 DB AG AGFA (2001)",
 		["br101_backontrack"] = "BR 101 068 DB AG Back on Track (2020)",
 		["br101_bahn"] = 		"BR 101 003 DB AG Design&Bahn (2021)",
 		["br101_bauhaus"] = 	"BR 101 063 DB AG 100 Jahre Bauhaus (2018)",
@@ -208,7 +208,7 @@ return {
 		["br101_zuerich"] = 	"BR 101 081 DB AG Zürich (2014)",
 
         -- Vorspann
-        ["br101_agfa_vorspann"] = 		    "BR 101 115 DB AG AGFA [Vorspann] (2003)",
+        ["br101_agfa_vorspann"] = 		    "BR 101 115 DB AG AGFA [Vorspann] (2001)",
 		["br101_backontrack_vorspann"] =    "BR 101 068 DB AG Back on Track [Vorspann] (2020)",
 		["br101_bahn_vorspann"] = 		    "BR 101 003 DB AG Design&Bahn [Vorspann] (2021)",
 		["br101_bauhaus_vorspann"] = 	    "BR 101 063 DB AG 100 Jahre Bauhaus [Vorspann] (2018)",
@@ -250,7 +250,7 @@ return {
 		["br101_zuerich_vorspann"] = 	    "BR 101 081 DB AG Zürich [Vorspann] (2014)",
 
         -- Fake
-        ["br101_agfa_fake"] = 		    "BR 101 115 DB AG AGFA [Fake] (2003)",
+        ["br101_agfa_fake"] = 		    "BR 101 115 DB AG AGFA [Fake] (2001)",
 		["br101_backontrack_fake"] =    "BR 101 068 DB AG Back on Track [Fake] (2020)",
 		["br101_bahn_fake"] = 		    "BR 101 003 DB AG Design&Bahn [Fake] (2021)",
 		["br101_bauhaus_fake"] = 	    "BR 101 063 DB AG 100 Jahre Bauhaus [Fake] (2018)",
